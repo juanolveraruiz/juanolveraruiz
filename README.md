@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **Web Developer**
-<!--
+<br/><br/>
 I started learning web development from May 2023 starting with the basics of HTML, CSS and JavaScript. That is something I want to keep practicing by doing some personal projects and I would also like to learn Python.
 
 <p align="left">
@@ -14,13 +14,14 @@ I started learning web development from May 2023 starting with the basics of HTM
 ---
 
 ### Languages 
-<img align="left" alt="" width="" style="" src="">
-<img align="left" alt="" width="" style="" src="">
-<img align="left" alt="" width="" style="" src="">
-<img align="left" alt="" width="" style="" src="">
-<img align="left" alt="" width="" style="" src="">
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
--->
+<!--    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
+<br/>
+
 <!--
 **juanolveraruiz/juanolveraruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
