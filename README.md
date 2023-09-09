@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Web Developer**
+**`Web Developer Student`**
 <br/><br/>
 I started learning web development from May 2023 starting with the basics of HTML, CSS and JavaScript. That is something I want to keep practicing by doing some personal projects and I would also like to learn Python.
 
@@ -23,14 +23,23 @@ I started learning web development from May 2023 starting with the basics of HTM
 <br/>
 
 ---
-<!--   GRAFICAS DE GITHUB!!!
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cceciliaz&show_icons=true&count_private=true&hide_border=true&title_color=488207&icon_color=559600&text_color=FFFFE0&bg_color=0d1117" alt="cceciliaz github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cceciliaz&layout=compact&hide_border=true&title_color=488207&text_color=FFFFE0a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juanolveraruiz&show_icons=true&count_private=true&hide_border=true&title_color=6CD064&icon_color=2E6B38&text_color=FFFFE0&bg_color=0d1117" alt="juanolveraruiz github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanolveraruiz&layout=compact&hide_border=true&title_color=6CD064&text_color=FFFFE0a4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanolveraruiz&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanolveraruiz&bg_color=0d1117b&color=6CD064&line=2E6B38&point=6CD064&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<details>
+ <summary><h3>👨‍💻 More about me</h3></summary>
+   Work in progress, come back later.
+
+[website]: 
+[youtube]: 
+
 <!--
 **juanolveraruiz/juanolveraruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
