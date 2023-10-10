@@ -46,7 +46,7 @@ body {
 
 @media screen and (max-width:868px) {
     .profile-info img {
-        max-width: 80px;
+        max-width: 150px;
     }
     .profile-info h2 {
         font-size: 20px;
