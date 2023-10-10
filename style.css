@@ -15,8 +15,8 @@ body {
 }
 
 .profile-info img {
-    width: 500px;
-    padding: 200px;
+    width: 400px;
+    padding: 5px;
     border: 5px solid #fff; /*add a white border*/
     border-radius: 50%; /*make it round*/
     object-fit: cover; /*maintain aspect ratio and cover the square*/
