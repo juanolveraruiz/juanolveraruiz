@@ -44,7 +44,7 @@ body {
     color: #0077b5;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:868px) {
     .profile-info img {
         max-width: 80px;
     }
