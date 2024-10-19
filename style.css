@@ -32,6 +32,10 @@ a:hover {
     background-color: slateblue;
 }
 
+i {
+    margin: 3px;
+}
+
 @keyframes bounce {
 
     0%,
