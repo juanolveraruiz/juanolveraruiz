@@ -3,15 +3,22 @@ img {
     width: 150;
 }
 
-h2 {
-    font-size: 24px;
+h1 {
     font-family: lores-9-wide-bold-alt-oaklan, sans-serif;
     color: #58b475;
-    font-size: 66px;
+}
+
+h2 {
+    font-family: kari-display-pro, sans-serif;
+    color: white;
+    font-size: 30px;
+    -webkit-text-stroke: .5px black;
 }
 
 body {
-    background: linear-gradient(to right, slateblue, lightblue);
+    background-color: black;
+    /*
+    background: linear-gradient(to right, slateblue, lightblue);*/
     color: white;
     text-align: center;
 }
