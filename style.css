@@ -5,15 +5,11 @@ img {
 }
 
 h1 {
-    font-family: kari-display-pro, sans-serif;
     color: white;
-    font-size: 30px;
-    -webkit-text-stroke: .5px black;
 }
 
 h2 {
-    font-family: lores-9-wide-bold-alt-oaklan, sans-serif;
-    color: #58b475;
+    margin: 25px 0 25px 0;
 }
 
 body {
