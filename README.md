@@ -41,8 +41,6 @@ I started learning web development from May 2023 starting with the basics of HTM
 
 ### 📊 GitHub Stats
 
-[![Juan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanolveraruiz&bg_color=0d1117b&color=6CD064&line=2E6B38&point=6CD064&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=juanolveraruiz&theme=merko&border_radius=4.5)
